@@ -6,4 +6,4 @@ Make a little difference.
 
 From [50projects50days](https://50projects50days.com).
 
-NO PREV|[NEXT](https://github.com/yswnqc/50_frontend_projects-2_progress_steps) PROJECT
+NO PREV | [NEXT](https://github.com/yswnqc/50_frontend_projects-2_progress_steps) PROJECT
