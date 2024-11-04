@@ -52,6 +52,7 @@ body {
 .next-proj:hover {
   background-color: rgba(0, 0, 0, 0.1);
 }
+
 .container {
   display: flex;
   justify-content: center;
@@ -95,6 +96,7 @@ body {
 @media (max-width: 480px) {
   .container {
     flex-direction: column;
+    margin-bottom: 30px;
   }
 
   .card {
