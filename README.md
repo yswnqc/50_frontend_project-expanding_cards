@@ -4,7 +4,12 @@
 
 [DEMO](https://yswnqc.github.io/50_frontend_projects-1_expanding_cards/) here.
 
-Make a little difference.
+### Make a little difference
+- Mobile mode change into horizontal expanding
+
+### Need improve
+- If image x-y ratio is small than the a certain ratio display will not good
+- (now use cover to resolve but will have a zoom-in effect)
 
 From [50projects50days](https://50projects50days.com).
 
