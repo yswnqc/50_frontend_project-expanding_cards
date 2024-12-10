@@ -13,4 +13,4 @@
 
 From [50projects50days](https://50projects50days.com).
 
-NO PREV | [NEXT](https://github.com/yswnqc/50_frontend_projects-2_progress_steps) PROJECT
+[PREV](https://github.com/yswnqc/50_frontend_projects-21_drag_n_drop) | [NEXT](https://github.com/yswnqc/50_frontend_projects-2_progress_steps) PROJECT
